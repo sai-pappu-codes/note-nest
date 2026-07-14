@@ -15,7 +15,7 @@ class Header extends Component {
     render() {
         return (
             <header className="app-header" data-testid="Header">
-                <h1 className="app-header__title">all the stickies</h1>
+                <h1 className="app-header__title">NoteNest</h1>
                 <aside className="app-header__controls">
                     <button className="add-new" onClick={this.props.addNote}>+ New Note</button>
                     <input className="search" placeholder="Type here to search..." value={this.props.searchText} data-testid="searchInput" onChange={this.onType} />

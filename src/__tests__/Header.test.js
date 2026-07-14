@@ -5,7 +5,7 @@ import Header from '../Header';
 describe('Header', () => {
     it('renders heading', () => {
         render(<Header />);
-        const heading = screen.getByRole("heading", {name: "all the stickies"});
+        const heading = screen.getByRole("heading", {name: "NoteNest"});
         expect(heading).toBeInTheDocument;
     });
 

@@ -1,4 +1,6 @@
-# sticky-notes
+# NoteNest
+
+Maintained by **Saikrishnap** · [GitHub](https://github.com/saikrishnap0)
 
 This is an app for writing and saving sticky notes, built with React. This was a course project in the [Skillcrush](https://skillcrush.com/) React course.
 

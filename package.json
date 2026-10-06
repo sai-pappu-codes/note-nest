@@ -1,7 +1,7 @@
 {
-    "name": "notenest",
+    "name": "note-nest",
     "version": "0.1.0",
-    "homepage": "http://saikrishnap0.github.io/notenest",
+    "homepage": "http://sai-pappu-codes.github.io/note-nest",
     "main": "src/index.js",
     "dependencies": {
         "@testing-library/jest-dom": "^5.13.0",

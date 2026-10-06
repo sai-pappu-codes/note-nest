@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/notenest/static/css/main.8015f67b.chunk.css",
-    "main.js": "/notenest/static/js/main.4f1720b4.chunk.js",
-    "main.js.map": "/notenest/static/js/main.4f1720b4.chunk.js.map",
-    "runtime-main.js": "/notenest/static/js/runtime-main.0e6b1fb3.js",
-    "runtime-main.js.map": "/notenest/static/js/runtime-main.0e6b1fb3.js.map",
-    "static/js/2.2ad10881.chunk.js": "/notenest/static/js/2.2ad10881.chunk.js",
-    "static/js/2.2ad10881.chunk.js.map": "/notenest/static/js/2.2ad10881.chunk.js.map",
-    "static/js/3.60724eea.chunk.js": "/notenest/static/js/3.60724eea.chunk.js",
-    "static/js/3.60724eea.chunk.js.map": "/notenest/static/js/3.60724eea.chunk.js.map",
-    "index.html": "/notenest/index.html",
-    "static/css/main.8015f67b.chunk.css.map": "/notenest/static/css/main.8015f67b.chunk.css.map",
-    "static/js/2.2ad10881.chunk.js.LICENSE.txt": "/notenest/static/js/2.2ad10881.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/notenest/static/media/joe-woods-4Zaq5xY5M_c-unsplash.30a77dee.jpg"
+    "main.css": "/note-nest/static/css/main.8015f67b.chunk.css",
+    "main.js": "/note-nest/static/js/main.4f1720b4.chunk.js",
+    "main.js.map": "/note-nest/static/js/main.4f1720b4.chunk.js.map",
+    "runtime-main.js": "/note-nest/static/js/runtime-main.0e6b1fb3.js",
+    "runtime-main.js.map": "/note-nest/static/js/runtime-main.0e6b1fb3.js.map",
+    "static/js/2.2ad10881.chunk.js": "/note-nest/static/js/2.2ad10881.chunk.js",
+    "static/js/2.2ad10881.chunk.js.map": "/note-nest/static/js/2.2ad10881.chunk.js.map",
+    "static/js/3.60724eea.chunk.js": "/note-nest/static/js/3.60724eea.chunk.js",
+    "static/js/3.60724eea.chunk.js.map": "/note-nest/static/js/3.60724eea.chunk.js.map",
+    "index.html": "/note-nest/index.html",
+    "static/css/main.8015f67b.chunk.css.map": "/note-nest/static/css/main.8015f67b.chunk.css.map",
+    "static/js/2.2ad10881.chunk.js.LICENSE.txt": "/note-nest/static/js/2.2ad10881.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/note-nest/static/media/joe-woods-4Zaq5xY5M_c-unsplash.30a77dee.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0e6b1fb3.js",
